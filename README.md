@@ -169,9 +169,6 @@ else:
 ## Output
 <img width="1031" height="275" alt="604173456-6f3c15b9-c135-4745-b3d0-b3f67e3ad045" src="https://github.com/user-attachments/assets/934d50d4-574e-4243-adf6-1caf4edfb052" />
 
-
-
-
 ## Result
 The program successfully checks if a given number is a palindrome by reversing its digits and comparing it to the original number.
 
