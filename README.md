@@ -167,7 +167,8 @@ else:
     print(f"{num} is not a palindrome.")
 ```
 ## Output
-<img width="1031" height="275" alt="604173456-6f3c15b9-c135-4745-b3d0-b3f67e3ad045" src="https://github.com/user-attachments/assets/a74a1f98-3d02-45ee-bc34-00bfa287785d" />
+<img width="1031" height="275" alt="604173456-6f3c15b9-c135-4745-b3d0-b3f67e3ad045" src="https://github.com/user-attachments/assets/934d50d4-574e-4243-adf6-1caf4edfb052" />
+
 
 
 
